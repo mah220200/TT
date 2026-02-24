@@ -124,7 +124,10 @@ img{
     height:100%;
 }
 a{
+    background-color:lightpink;
+    padding:10px 20px;
     border:solid 5px rgb(255, 0, 0);
     margin:auto;
     color:rgb(0, 0, 0);
+
 }
