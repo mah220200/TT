@@ -1,0 +1,19 @@
+body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: pink; 
+            font-family: Arial, sans-serif;
+        }
+
+        .message {
+            font-size: 40px;
+            font-weight: bold;
+            color: #ff69b4;
+            background: rgb(255, 255, 255);
+            padding: 30px 50px;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
